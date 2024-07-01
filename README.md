@@ -1,6 +1,6 @@
 ### Hi there, I'm Ky 👋
 
-## I'm a frontend developer!
+## I'm a developer!
 
 - ⚡ Fun fact: I like traveling  play musical instrumentand
 ### Connect with me:
